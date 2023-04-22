@@ -1,0 +1,39 @@
+Hi all, please see below the minutes from the last meeting, and add any corrections. As a thought, maybe we could create some sort of wiki within the github account to keep the meeting minutes - does github allow this the same way gitlab does? That way we don't lose these inside email threads. 
+
+In addition, please fill out this When2Meet poll to decide the date and time of the next meeting:
+
+https://www.when2meet.com/?19672152-V6kj8
+
+Please send agenda items. I think the main one is to discuss what will be on the table at the chapter meeting during July's ASA, and the organization of the 2024 school with Evgeni and Daniel. 
+
+=========================
+
+Minutes 2023-03-23
+
+Attendees: Ilya Mandel, Fiona Panther, Greg Poole, Amanda Karaas, Darren Croton, Thor Tepper Garcia, Sabrina Berger
+
+Ilya thanks outgoing committee members and welcomes new/returning members (new: Amanda, Sabrina, returning: Fiona, Greg). 
+
+2023 Steering committee roles (all ongoing):
+President: Ilya
+Secretary: Fiona
+Treasurer: Greg
+
+Discussion of the next 2 years worth of ANITA meetings:
+2024: @ Monash as the Transients workshop will be held in Melb the previous week. Evgeni and Daniel are LOC contacts. Theme: Dynamics (?)
+2025: LOC contact Mark Krumholz, to be held at ANU. Theme ? 
+Fiona asks: still need for an astrostats/computing school? Could this be split as a separate event especially if 2025 is funded by ANU?
+
+Ilya presents results of the 2023 exit survey 
+Greg asks: can we please get a link to these somewhere on Google Drive/Dropbox/Github
+Amanda asks: are we keeping track of this and acting on feedback/seeing if implementing change is positive
+Darren suggests: create some storage space in the Git repo. ACTION ITEM?
+big consensus to end early on the Friday, 2 day school was well liked, need to make sure sessions run to time/interactive sessions are sufficiently engaging
+Some interest in having invited speakers, but urge caution of devaluing student talks (i.e. putting ECRs and profs on the same level for talk slots is one of ANITA's unique selling points)
+Needs to be made clear that topic of school is not linked to the kind of topics that can be submitted to the workshop, which is not themed.
+Geographic engagement - ANU/ICRAR not well represented in 2023.
+Topics for ASA chapter meeting: 
+Discussion of gender balance (including ADACS gender balance/engagement)
+Action items:
+create repository for past surveys (Darren?), plus Ilya to dig up past feedback (?)
+Circulate doodle poll for next meeting (Fiona)
