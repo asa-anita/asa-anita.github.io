@@ -1,0 +1,24 @@
+Minutes 2023-05-02
+
+Attendees: Greg Poole, Amanda Karakas, Evgeni Grishin, Thor Tepper Garcia, Sabrina Berger, Ilya Mandel
+
+From last action minutes: we now have minutes available at https://anita.edu.au/Minutes/ .
+We also have ANITA reports to ASA and exit surveys from last 3 workshops in the github repo.
+
+Main topic of discussion: next school/workshop (to be held at Monash February 5-9, 2024)
+
+School topics: Dynamics (with few-body and N-body)?  Or TDEs?  The latter could appeal to a broader community (dynamicists and hydro modellers and light curve modellers and observers...), would match previous week's transient workshop held in Melbourne.  Possible speakers: Daniel Price, Adelle Goodwin, Katie Auchettl, maybe even some overseas visitors for transients workshop.
+
+Planning items:
+- Rooms reservation (30-40 people for school on M & Tu, like PACE; 80 for workshop, half-day W, Th, half-day F).  ACTION: *Evgeni*
+- Website, registration.  ACTION: *Ilya*
+- Schedule of workshop: TBD
+- Catering (or just send people nearby for coffee?).  ACTION: *Evgeni & Daniel*
+- Workshop W or Th dinner restaurant reservation.  ACTION: *Evgeni & Daniel*
+- School presenter planning/invitations. ACTION: *Evgeni & Daniel*
+
+Items for next meeting:
+- status update on above
+- workshop invited talks?  Maybe just encourage certain speakers to attend?
+- planning for ANITA session at ASA AGM
+- next meeting week of June 19 or 26, fill in  https://www.when2meet.com/?19935363-er3fo

@@ -16,7 +16,7 @@ INDEX_TEMPLATE = r"""
 </html>
 """
 
-EXCLUDED = ['index.html', 'make_index.py']
+EXCLUDED = ['index.html', 'make_index.py', 'command']
 
 import os
 import argparse
