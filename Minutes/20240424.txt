@@ -1,0 +1,50 @@
+April 24, 2024
+Agenda
+Elect new secretary/treasurer (all) - Sabrina
+Report from previous ANITA workshop/school to discuss (all)
+Begin planning for 2025 school/workshop
+AOB
+
+
+Meeting Notes
+* Feedback from previous ANITA workshop/school
+   * Action Item: ASA funding letter to request support ($5k for catering?)
+      * Especially needed for students, post docs (ECRs)
+      * May incentivize more students/ECRs to come to ANITA
+      * Coffee breaks and lunches should be covered at least for students & ECRs
+   * Only name on programs, not titles
+      * Amanda liked this because it was mixed science but didn’t like not having badges        
+   * Should ANITA be hybrid?
+      * Mark prefers not hybrid, ANU we have Duffield Lecture Theatre
+         * Plenty of people from ANU know how the A/V works
+      * Need everyone to use the same computer and set up a dropbox
+      * Not everyone can travel so needs to be hybrid
+      * Darren said online experience should try and be as good as it can
+      * School should not be hybrid
+      * Workshop can be hybrid
+      * Should we use the hybrid ASA as a model for ANITA? 
+         * Mark said people are trying to make online work as best they can for ASA
+   * Summer school and workshop will be two different weeks so hopefully subfield specific confusion will be solved
+   * Typically 10-20 students have attended ANITA schools the last few years though the numbers have gone down
+* 2025 school/workshop
+* Both summer school and workshop will be at Mt. Stromlo, need bus to transport (Mark will fund)
+* Mark will make hotel block booking and parliament not sitting that week
+* Catering needs to be included
+* ANITA summer school 2025 (January 28, 2025 - January 31, 2025)
+   * Mark will take lead to organize this
+   * Topic: Multi physics simulations
+   * January 28 (day after Australia Day) - January 31, 2025 (people travel on Australia day to Canberra)
+   * Mark can pay for 30 students full funding
+      * Will try to stretch the funding further by asking those with supervisors that can afford it
+      * Hopefully can cover everyone who wants to come
+   * Book block of hotel rooms for students at the same place
+   * Mark organizing speakers and will be able to bring people from outside Australia
+   * Cluster possibilities to get HPC resources
+      * Stromlo cluster 
+      * Action Item: OzStar - Ask for allocation from the school (Greg Poole)
+      * Nectar Research Cloud (need to understand VMs)
+   * Call for summer school should be in August, 2024
+* Excursion to Tidbinbilla in weekend in between
+* ANITA workshop 2025 (February 3, 2024 - February 4, 2024)
+      * Expect 30-50 people including people at the school
+* Action Item: website for next year’s workshop/school
