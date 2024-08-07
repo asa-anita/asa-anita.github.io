@@ -5,45 +5,44 @@ Meeting Notes
 ANITA School and Workshop Updates
 
 	•	Reminder on dates for the ANITA summer school and conference
-	◦	School: Tuesday, January 28 - Friday, January 31, 2025
-	◦	Conference (workshop): Monday, February 3 - Wednesday, February 5, 2025 (half day on last day)
+		◦	School: Tuesday, January 28 - Friday, January 31, 2025
+		◦	Conference (workshop): Monday, February 3 - Wednesday, February 5, 2025 (half day on last day)
 	•	Mark sent budget around via email on August 7th
 	•	Funding sources:
-	◦	ASA ~ $2000
-	◦	OzGrav ~ $2000
-	◦	Dark Matter ~ $2000 - To do (Fiona): Ask Darren about funding for this
-	◦	Mark’s Laureate
+		◦	ASA ~ $2000
+		◦	OzGrav ~ $2000
+		◦	Dark Matter ~ $2000 - **To do (Fiona): Ask Darren about funding for this**
+		◦	Mark’s Laureate
 	•	Mark can create an account at ANU to hold monetary contributions
-	◦	ASA typically runs by reimbursement
-	◦	Mark may be able to cover everything out of Laureate and then get reimbursement from the ASA for days that cover the workshop rather than school
-	◦	Fiona/Mark prefers one PG for all funds
+		◦	ASA typically runs by reimbursement
+		◦	Mark may be able to cover everything out of Laureate and then get reimbursement from the ASA for days that cover the workshop rather than school
+		◦	Fiona/Mark prefers one PG for all funds
 	•	Mark’s ANITA summer school/conference updates:
-	◦	Registration date is live 
-	◦	Booked bus, catering, and hotel block
-	◦	Lecturers confirmed for school
-	◦	Mass email sent to the ASA
-	◦	Currently 10 registrations for the workshop
-	•	To do item (all): Announce the school at respective institutions and COEs
+		◦	Registration date is live 
+		◦	Booked bus, catering, and hotel block
+		◦	Lecturers confirmed for school
+		◦	Mass email sent to the ASA
+		◦	Currently 10 registrations for the workshop
+	•	**To do item (all): Announce the school at respective institutions and COEs**
 	•	Mark would like help organizing talks into non-random order + ensure sure talk titles are on the schedule
 	•	No one has yet chosen remote attendance option
 	•	Support for software form ADACS (Greg):
-	◦	Can direct people to ticket system 
-	◦	Plan is that everything will be installed and setup
-	◦	Will need NT since OzGrav GPUs too old to run Quokka
+		◦	Can direct people to ticket system 
+		◦	Plan is that everything will be installed and setup
+		◦	Will need NT since OzGrav GPUs too old to run Quokka
 
 Townhall for Theory Decadal Survey: (https://docs.google.com/document/d/1EaLRFVl2U_kyTJDnNyronKlvRBG1MR4GqlxAFhK5GVI/edit?usp=sharing)
 	•	University meetings have happened (ANU/Melbourne/etc?)
 	•	Summary:
-	◦	Australian landscape dominated by big surveys but no theory work done to accompany this
-	◦	We’re at risk of having too much data without enough theorists
-	◦	We should have a theory focused institute like UToronto’s CITA
-	⁃	Potential Simon’s funding? Mark will contact David Spergel and Julianne Dalcanton once done with decadal survey stuff
-	◦	Organizing workshops centered around theory in Aus
-	◦	Flagship simulation program
+		◦	Australian landscape dominated by big surveys but no theory work done to accompany this
+		◦	We’re at risk of having too much data without enough theorists
+		◦	We should have a theory focused institute like UToronto’s CITA
+		⁃	Potential Simon’s funding? Mark will contact David Spergel and Julianne Dalcanton once done with decadal survey stuff
+		◦	Organizing workshops centered around theory in Aus
+		◦	Flagship simulation program
 	•	Greg says ANITA might not contribute much to the document but the document will help guide ANITA
 	•	AAL will be directly influenced by the document but everything else is purely persuasive
-	◦	Having concrete plan for AAL is 80% 
-	◦	We need concrete plan if you give us X dollars, here’s what we will do with it
+		◦	Having concrete plan for AAL is 80% of the work in funding
 	•	Long term software support needed beyond 6 months with ADACS
 	•	Can we connect with the theory community and use ANITA as a vessel to do that?
 
@@ -59,7 +58,7 @@ History of ANITA
 Quarterly Newsletter
 	•	Awards, funding/fellowship deadlines, papers submitted, little blurbs on research from people
 	•	Send to everyone in the ASA who clicked on ANITA
-	•	To do (Sabrina/Fiona): Collate the information, adapt web scraper for the arXiv to find papers with ANITA Australian authors 
+	•	**To do (Sabrina/Fiona): Collate the information, adapt web scraper for the arXiv to find papers with ANITA Australian authors**
 	•	Aim to have first newsletter out by end of September, 2024
 
 Next next (2026) ANITA 
